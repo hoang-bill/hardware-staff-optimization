@@ -1,0 +1,127 @@
+// Sample Output 1
+
+Cordless Screwdriver was added to inventory
+Multi Bit Ratcheting: $29
+ERROR: Thermostat cannot be found
+Performing store lookup for Hand Truck
+1 Hammer was sold
+3
+Joshua Filler was fired
+Lewis Hamilton has been hired as a Gardner
+Lewis Hamilton was promoted to Manager
+Schedule created.
+Planks sawed.
+Thank you for visiting High’s Hardware and Gardening!
+
+
+// Sample Output 2
+
+Garden Rakes was added to inventory
+Shovel: $55
+ERROR: Hammer cannot be found
+Performing store lookup for Digging Forks
+2 Pilers was sold
+1
+Joshua Filler was fired
+Michael Scott has been hired as a Cashier
+Michael Scott was promoted to Gardner
+Schedule created.
+Planks sawed.
+Thank you for visiting High’s Hardware and Gardening!
+Schedule created.
+Planks sawed.
+Thank you for visiting High’s Hardware and Gardening!ERROR: Hammer cannot be found
+ERROR: Hammer cannot be found
+ERROR: Hammer cannot be found
+ERROR: Hammer cannot be found
+ERROR: Hammer cannot be found
+2 Hammer are available in aisle 3
+2 Hammer are available in aisle 3
+Drill was added to inventory
+Drill: $99.99
+Electric Drill was added to inventory
+15 Electric Drill are available in aisle 6
+Drill: $99.99
+Drill: $99.99
+Thank you for visiting High’s Hardware and Gardening!
+Thank you for visiting High’s Hardware and Gardening!
+ERROR: Jason Henderson cannot be found
+ERROR: Jason Henderson cannot be found
+Jason Henderson was fired
+John Doe has been hired as a Manager
+ERROR: Invalid age format. Age must be an integer.
+John Doe has been hired as a Manager
+ERROR: John cannot be found
+ERROR: John Doe cannot be found
+ERROR: John cannot be found
+ERROR: John cannot be found
+ERROR: John Doe cannot be found
+ERROR: Bob cannot be found
+Bob has been hired as a Cashier
+John Doe has been hired as a Manager
+Bob was promoted to Manager
+Planks sawed.
+Planks sawed.
+Planks sawed.
+Schedule created.
+Schedule created.
+Schedule created.
+Schedule created.
+Schedule created.
+Schedule created.
+Quantity of Drill: 5
+Quantity of Drill: 5
+Quantity of Drill: 5
+Quantity of Drill: 5
+Quantity of Electric Drill: 15
+2 Wood was sold
+14 Electric Drill was sold
+Schedule created.
+5 Drill are available in aisle 4
+Screwdriver: $5.99
+ERROR: Not enough Screwdriver in stock to sell
+ERROR: Not enough Screwdriver in stock to sell
+10 Wood was sold
+68 Wood are available in aisle 12
+10 Wood was sold
+58 Wood are available in aisle 12
+ERROR: Bob cannot be found
+ERROR: Bob cannot be found
+ERROR: John Doe cannot be found
+ERROR: Bob cannot be found
+ERROR: BOB cannot be found
+ERROR: BOB cannot be found
+John Doe has been hired as a Cashier
+ERROR: John Doe cannot be found
+ERROR: Bob cannot be found
+ERROR: John Doe cannot be found
+ERROR: John Doe cannot be found
+ERROR: John Doe cannot be found
+ERROR: 'John Doe' cannot be found
+ERROR: Insufficient arguments for HIRE command.
+ERROR: Insufficient arguments for HIRE command.
+1 Screwdriver are available in aisle 3
+ERROR: John cannot be found
+ERROR: Insufficient arguments for HIRE command.
+Planks sawed.
+Screwdriver: $5.99
+ERROR: Insufficient arguments for HIRE command.
+Unsupported command.
+Unsupported command.
+ERROR: Invalid age format. Age must be an integer.
+ERROR: John Doe cannot be found
+John Doe was promoted to Manager
+ERROR: Insufficient arguments for HIRE command.
+ERROR: Insufficient arguments for HIRE command.
+ERROR: Insufficient arguments for HIRE command.
+1 Electric Drill are available in aisle 6
+Eggs was added to inventory
+Quantity of Eggs: 3
+John Doe was fired
+Bob has been hired as a Cashier
+Schedule created.
+5 Drill are available in aisle 4
+ERROR: Insufficient arguments for ADD command.
+Eggs was added to inventory
+BabyMinseo has been hired as a Manager
+Bob was fired
